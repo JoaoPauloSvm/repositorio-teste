@@ -1,7 +1,7 @@
 # Meu primeiro repositorio
 ## Repositorio jp
 
-###Comandos utilizados até o momento:
+### Comandos utilizados até o momento:
 
 
  - mkdir repositorio-teste-01: criando a pasta no computador
